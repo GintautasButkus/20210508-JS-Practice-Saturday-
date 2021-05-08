@@ -31,7 +31,7 @@
 // document.getElementById('container').innerHTML = HTML;
 
 
-// **************SUPAPRASTINTAS VARIANATS*************
+// **************SUPAPRASTINTAS VARIANATS************* 
 HTML ='<div class="row">';
  for (let i = 0; i < pokemonData.results.length; i++) {
     let pokemon = pokemonData.results[i];
