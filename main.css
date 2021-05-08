@@ -1,0 +1,33 @@
+.row{
+    margin-top: 20px;
+}
+
+
+#container{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+/* .col-sm-3{
+    
+} */
+
+.card{
+    height: 50px;
+    background-color:burlywood;
+    height: 175px;
+    margin-bottom: 20px;
+}
+
+.card > h1{
+    margin-bottom: 0px;
+}
+
+.card > img{
+    width: 130px;
+    height: 130px;
+    margin-left: calc((100% - 130px) / 2)
+}
